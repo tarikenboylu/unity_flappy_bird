@@ -64,7 +64,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Duvar.cs" />
+    <Compile Include="Assets\JMO Assets\CFX_AutoDestructShuriken.cs" />
+    <Compile Include="Assets\JMO Assets\CFX_LightIntensityFade.cs" />
+    <Compile Include="Assets\LikeMove.cs" />
     <Compile Include="Assets\MoveCharacter.cs" />
+    <Compile Include="Assets\MoveWalls.cs" />
+    <Compile Include="Assets\RotV.cs" />
+    <None Include="Assets\JMO Assets\CFX3 Multiply Color.shader" />
+    <None Include="Assets\JMO Assets\CFXM_MobileParticleAdd_Alpha8.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Flappy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
